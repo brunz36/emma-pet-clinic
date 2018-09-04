@@ -44,5 +44,7 @@
 		</plugins>
 	</build>
 
-
+	<scm>
+		<developerConnection>scm:git:https://github.com/brunz36/emma-pet-clinic.git</developerConnection>
+	</scm>
 </project>
