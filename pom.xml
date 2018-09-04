@@ -4,7 +4,7 @@
 
 	<groupId>com.bribeiro</groupId>
 	<artifactId>emma-pet-clinic</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<modules>
 		<module>pet-clinic-data</module>
 		<module>pet-clinic-web</module>
@@ -45,6 +45,6 @@
 
 	<scm>
 		<developerConnection>scm:git:git@github.com:brunz36/emma-pet-clinic.git</developerConnection>
-	  <tag>emma-pet-clinic-0.0.1</tag>
+	  <tag>HEAD</tag>
   </scm>
 </project>
